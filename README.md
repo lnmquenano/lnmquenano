@@ -1,4 +1,4 @@
-<h1>Hello! I'm Lorenzo Nheo M. Queñano 👋</h1>
+<h1>Greetings! I'm Lorenzo Nheo M. Queñano 👋</h1>
 <p>I am currently a freelance programmer, still learning other types of program languages</p>
 
 <h2>Education:</h2>
