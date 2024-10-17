@@ -1,5 +1,5 @@
 <h1>Hello! I'm Lorenzo Nheo M. Queñano 👋</h1>
-<p>I am a passionate freelance progammer, still learning other types of program languages</p>
+<p>I am currently a freelance progammer, still learning other types of program languages</p>
 
 <h1>Education:</h1>
 <p><br>BS Computer Science</br>
