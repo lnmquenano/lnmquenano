@@ -10,5 +10,5 @@ BS Computer Science</br>
 <a href="http://github.com/lnmquenano">SQL and Relational Databases 101</a></br>
 
 <h2>Skillsets:</h2>
-Program Languages - HTML/CSS, Java, JavaScript</br>
-<br>Databases - DB2</br>
+Program Language/s - HTML/CSS, Java, JavaScript</br>
+<br>Database/s - SQL (Db2)</br>
