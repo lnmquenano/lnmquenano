@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hello! I'm Lorenzo Nheo M. Queñano 👋</h1>
+<p>I am a passionate freelance progammer, still learning other types of program languages</p>
 
-<!--
-**Enzo-0000/Enzo-0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Education:</h1>
+<p><br>BS Computer Science</br>
+<br>New Era University</br>
+<br>2023-present</br></p>
 
-Here are some ideas to get you started:
+<h1>Certifications:</h1>
+<p><a href="http://github.com/lnmquenano">SQL and Relational Databases 101</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Skillsets:</h1>
+<p>Languages - HTML/CSS, Java, JavaScript</p>
