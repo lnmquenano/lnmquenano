@@ -10,4 +10,5 @@
 <p><a href="http://github.com/lnmquenano">SQL and Relational Databases 101</a></p>
 
 <h1>Skillsets:</h1>
-<p>Languages - HTML/CSS, Java, JavaScript</p>
+<p><br>Program Languages - HTML/CSS, Java, JavaScript</br>
+<br>Databases - DB2</br></p>
