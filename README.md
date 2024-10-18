@@ -1,6 +1,7 @@
 <h1>Greetings! I'm Lorenzo Nheo M. Queñano 👋</h1>
 <br><p>Currently a student and a freelance programmer, still exploring around and learning more about the other types of programming languages.</p>
 </br>
+
 <h2>Education:</h2>
 BS Computer Science</br>
 New Era University</br>
