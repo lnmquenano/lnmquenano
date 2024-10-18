@@ -3,12 +3,22 @@
 </br>
 <h2>Education:</h2>
 BS Computer Science</br>
-<br>New Era University</br>
-<br>2023-present</br>
+New Era University</br>
+2023-present</br>
 
 <h2>Certifications:</h2>
+<h4>|| Cognitive Class Ai Course/s</h4>
 <a href="https://courses.cognitiveclass.ai/certificates/affe1f6bd68c4e1cafc87bf22bbb135f">SQL and Relational Databases 101</a></br>
 
 <h2>Skillsets:</h2>
-Program Language - HTML/CSS, Java, JavaScript</br>
-<br>Database - SQL (Db2)</br>
+<h4>|| Program Languages</h4>
+<ul>
+   <li> HTML/CSS </li>
+   <li> Java </li>
+   <li> JavaScript </li>
+</ul> 
+
+<h4>|| Database</h4>
+<ul>
+   <li> SQL (Db2) </li>
+</ul> 
