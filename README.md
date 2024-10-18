@@ -17,9 +17,5 @@ New Era University</br>
    <li> HTML/CSS </li>
    <li> Java </li>
    <li> JavaScript </li>
-</ul> 
-
-<h4>|| Database</h4>
-<ul>
    <li> SQL </li>
 </ul> 
