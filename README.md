@@ -21,5 +21,5 @@ New Era University</br>
 
 <h4>|| Database</h4>
 <ul>
-   <li> SQL (Db2) </li>
+   <li> SQL </li>
 </ul> 
