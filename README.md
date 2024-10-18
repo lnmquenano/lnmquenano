@@ -7,7 +7,7 @@ BS Computer Science</br>
 <br>2023-present</br>
 
 <h2>Certifications:</h2>
-<a href="http://github.com/lnmquenano">SQL and Relational Databases 101</a></br>
+<a href="http://[github.com/lnmquenano](https://courses.cognitiveclass.ai/certificates/affe1f6bd68c4e1cafc87bf22bbb135f)">SQL and Relational Databases 101</a></br>
 
 <h2>Skillsets:</h2>
 Program Language/s - HTML/CSS, Java, JavaScript</br>
