@@ -12,7 +12,7 @@ New Era University</br>
 <a href="https://courses.cognitiveclass.ai/certificates/affe1f6bd68c4e1cafc87bf22bbb135f">SQL and Relational Databases 101</a></br>
 
 <h2>Skillsets:</h2>
-<h4>|| Program Languages</h4>
+<h4>|| Programming Languages</h4>
 <ul>
    <li> HTML/CSS </li>
    <li> Java </li>
