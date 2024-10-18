@@ -10,5 +10,5 @@ BS Computer Science</br>
 <a href="https://courses.cognitiveclass.ai/certificates/affe1f6bd68c4e1cafc87bf22bbb135f">SQL and Relational Databases 101</a></br>
 
 <h2>Skillsets:</h2>
-Program Language/s - HTML/CSS, Java, JavaScript</br>
-<br>Database/s - SQL (Db2)</br>
+Program Languages - HTML/CSS, Java, JavaScript</br>
+<br>Databases - SQL (Db2)</br>
