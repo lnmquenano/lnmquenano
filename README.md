@@ -1,5 +1,5 @@
 <h1>Greetings! I'm Lorenzo Nheo M. Queñano 👋</h1>
-<br><p>Currently a student and a freelance programmer, still exploring around and learning more about the other types of programming languages.</p></br>
+<h4>Currently a student and a freelance programmer, still exploring around and learning more about the other types of programming languages.</h4>
 <p align="center">
 <img src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/12/funny-cat-year2015-web-dev.gif?x99741" alt="Hello there" width="50%" height="50%">
 </p>
