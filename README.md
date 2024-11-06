@@ -14,14 +14,17 @@ New Era University</br>
 
 <h2><img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"> Skillsets:</h2>
 <h4>|| Programming Languages</h4>
-<h4> Front-End </h4>
+<h4> Front-End Development </h4>
 <ul>
    <li> HTML/CSS </li>
    <li> JavaScript </li>
 </ul>
-<h4> Back-End </h4>
+<h4> Back-End Development </h4>
 <ul>
    <li> Java </li>
+</ul>
+<h4> Database Management </h4>
+<ul>
    <li> SQL </li>
 </ul>
 <br>
