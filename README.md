@@ -4,7 +4,7 @@
 <h2>Education:</h2>
 BS Computer Science</br>
 New Era University</br>
-2023-present</br>
+2023-2027</br>
 
 <h2>Certifications:</h2>
 <h4>|| Cognitive Class Course/s</h4>
