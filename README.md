@@ -28,7 +28,7 @@ New Era University</br>
 </ul>
 <h4> Database Management </h4>
 <ul>
-   <li> SQL </li>
+   <li> IBM Cloud Db2</li>
 </ul>
 <br>
 
