@@ -3,7 +3,7 @@
 <p style="text-align:justify">Hi! I'm Nheo (pronounced Ni-Yo), currently a student at New Era University and a freelance programmer, still exploring around and learning more about everything there is to know about computer science. I initially didn't think that I'd choose computer science as my major, but fate really is ridiculous sometimes! I became interested in programming after seeing a lot of experienced developers making such beautiful apps, especially because of games that have been released a few years ago. I know it will be hard, but since there's no easy career path in the first place, why not choose something that is considered one of the hardest?</p>
 </br>
 
-<h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"> EDUCATION <img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"></h2>
+<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"> Education <img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"></h1>
 <h4> Bachelor of Science in Computer Science </h4>
 <ul>
    <li> New Era University </li>
@@ -11,7 +11,7 @@
 </ul>
 <br>
 
-<h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"> CERTIFICATIONS <img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"></h2>
+<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"> Certifications <img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"></h1>
 <h4>|| Cognitive Class Course</h4>
 <a href="https://courses.cognitiveclass.ai/certificates/affe1f6bd68c4e1cafc87bf22bbb135f">SQL and Relational Databases 101</a></br>
 <h4>|| Oracle Learning</h4>
@@ -19,7 +19,7 @@
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22310FBC01945E531146CF325A1DA312A77362A85E2B1C2CE2718A33718964F">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></br>
 <br>
 
-<h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"> SKILLSET <img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"></h2>
+<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"> Skillsets <img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"></h1>
 <h4>|| Programming Languages </h4>
 <ul>
    <li> Java </li>
@@ -35,11 +35,13 @@
 </ul>
 <br>
 
-<h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="3%" height="3%"> SOCIAL MEDIA <img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="3%" height="3%"></h2>
-<h4> Let's Connect! </h4>
+<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="3%" height="3%"> Let's Connect! <img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="3%" height="3%"></h1>
+<p align="center">
 <a href="https://www.linkedin.com/in/lnmquenano/"><img src="https://play-lh.googleusercontent.com/dWGBdDzI8mxlZqXT3qBt4eWmCaWLq-OXfZYea1hu6ODmMj1cLIeQak6Gsecn4zJoflE-" width="5% height="5%"></a>
+</p>
+<br>
 
-<h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="3%" height="3%"> STATS <img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="3%" height="3%"></h2>
+<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="3%" height="3%"> STATS <img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="3%" height="3%"></h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lnmquenano&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="lnmquenano's GitHub Stats" width="50%" height="50%">
 <br>
