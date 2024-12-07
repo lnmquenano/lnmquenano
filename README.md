@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I'm Lorenzo Nheo M. Queñano 👋</h1>
-<p align="center"><img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721115005754-CRL27OWA47LU30WWERL1/16.gif" alt="hi"></p>
+<p align="center"><img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721115005754-CRL27OWA47LU30WWERL1/16.gif" alt="Credits to Mienar"></p>
 <p style="text-align:justify">Hi! I'm Nheo (pronounced Ni-Yo), currently a student at New Era University and a freelance programmer, still exploring around and learning more about everything there is to know about computer science. I initially didn't think that I'd choose computer science as my major, but fate really is ridiculous sometimes! I became interested in programming after seeing a lot of experienced developers making such beautiful apps, especially because of games that have been released a few years ago. I know it will be hard, but since there's no easy career path in the first place, why not choose something that is considered one of the hardest?</p>
 </br>
 
