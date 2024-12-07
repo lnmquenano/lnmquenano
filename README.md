@@ -1,5 +1,7 @@
 <h1 align="center">Greetings! I'm Lorenzo Nheo M. Queñano 👋</h1>
-<br><p style="text-align:justify;">Hi! I'm Nheo (pronounced Ni-Yo), currently a student at New Era University and a freelance programmer, still exploring around and learning more about everything there is to know about computer science. I initially didn't think that I'd choose computer science as my major, but fate really is ridiculous sometimes! I became interested in programming after seeing a lot of experienced developers making such beautiful apps, especially because of games that have been released a few years ago. I know it will be hard, but since there's no easy career path in the first place, why not choose something that is considered one of the hardest?</p></br>
+<p align="center"><img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721115005754-CRL27OWA47LU30WWERL1/16.gif" alt="hi"></p>
+<p style="text-align:justify">Hi! I'm Nheo (pronounced Ni-Yo), currently a student at New Era University and a freelance programmer, still exploring around and learning more about everything there is to know about computer science. I initially didn't think that I'd choose computer science as my major, but fate really is ridiculous sometimes! I became interested in programming after seeing a lot of experienced developers making such beautiful apps, especially because of games that have been released a few years ago. I know it will be hard, but since there's no easy career path in the first place, why not choose something that is considered one of the hardest?</p>
+</br>
 
 <h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"> EDUCATION <img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"></h2>
 BS Computer Science</br>
@@ -34,3 +36,4 @@ New Era University</br>
 <h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="3%" height="3%"> SOCIAL MEDIA <img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="3%" height="3%"></h2>
 <h4>Let's Connect!</h4>
 <a href="https://www.linkedin.com/in/lnmquenano/"><img src="https://play-lh.googleusercontent.com/dWGBdDzI8mxlZqXT3qBt4eWmCaWLq-OXfZYea1hu6ODmMj1cLIeQak6Gsecn4zJoflE-" width="5% height="5%"></a>
+</body>
