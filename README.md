@@ -39,6 +39,7 @@
 <h4> Let's Connect! </h4>
 <a href="https://www.linkedin.com/in/lnmquenano/"><img src="https://play-lh.googleusercontent.com/dWGBdDzI8mxlZqXT3qBt4eWmCaWLq-OXfZYea1hu6ODmMj1cLIeQak6Gsecn4zJoflE-" width="5% height="5%"></a>
 
+<h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="3%" height="3%"> STATS <img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="3%" height="3%"></h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lnmquenano&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="lnmquenano's GitHub Stats" width="50%" height="50%">
 <br>
