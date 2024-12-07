@@ -4,9 +4,11 @@
 </br>
 
 <h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"> EDUCATION <img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"></h2>
-BS Computer Science</br>
-New Era University</br>
-2023-2027</br>
+<h4>Bachelor of Science in Computer Science</h4>
+<ul>
+   <li> New Era University</br>
+   <li>2023-2027</br>
+</ul>
 <br>
 
 <h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"> CERTIFICATIONS <img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"></h2>
