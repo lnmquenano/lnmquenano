@@ -12,6 +12,7 @@ New Era University</br>
 <a href="https://courses.cognitiveclass.ai/certificates/affe1f6bd68c4e1cafc87bf22bbb135f">SQL and Relational Databases 101</a></br>
 <h4>|| Oracle Learning</h4>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22310FBC01945E531146CF325A1DA310082DC6F0EA7ABC05D84F2F715A94AFC">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22310FBC01945E531146CF325A1DA312A77362A85E2B1C2CE2718A33718964F">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></br>
 <br>
 
 <h2><img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"> Skillset:</h2>
