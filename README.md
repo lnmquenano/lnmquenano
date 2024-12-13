@@ -11,7 +11,7 @@
 </ul>
 <br>
 
-<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"> Certifications <img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"></h1>
+<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"> Certificates/Badges <img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"></h1>
 <h4>|| Cognitive Class Course</h4>
 <a href="https://courses.cognitiveclass.ai/certificates/affe1f6bd68c4e1cafc87bf22bbb135f">SQL and Relational Databases 101</a></br>
 <h4>|| Oracle Learning</h4>
