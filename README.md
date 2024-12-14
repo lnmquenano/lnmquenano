@@ -42,7 +42,6 @@
 </p>
 <br>
 
-<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="3%" height="3%"> Stats <img src="https://cdn-icons-gif.flaticon.com/16313/16313606.gif" width="3%" height="3%"></h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lnmquenano&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="lnmquenano's GitHub Stats" width="50%" height="50%">
 </p>
