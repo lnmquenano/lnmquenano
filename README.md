@@ -4,11 +4,21 @@
 </br>
 
 <h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"> Education <img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"></h1>
+<table align="center">
+<tr>
+<td valign="middle">
 <h4> Bachelor of Science in Computer Science </h4>
+</td>
+<td valign="middle">
+<br>
 <ul>
    <li> New Era University </li>
    <li> 2023-2027 </li>
 </ul>
+</br>
+</td>
+</tr>
+</table>
 <br>
 
 <h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"> Certificates/Badges <img src="https://cdn-icons-gif.flaticon.com/17490/17490068.gif" width="3%" height="3%"></h1>
@@ -37,6 +47,7 @@
 <h4 align="center">|| Programming Languages </h4>
 <ul>
    <li>Java</li>
+   <li>Python</li>
 <br>
 </ul>
 </td>
