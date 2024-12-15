@@ -21,20 +21,32 @@
 <br>
 
 <h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"> Skillsets <img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"></h1>
+<table align="center">
+<tr>
+<td valign="top">
 <h4>|| Programming Languages </h4>
 <ul>
-   <li> Java </li>
+   <li>Java</li>
+<br>
 </ul>
+</td>
+<td valign="top">
 <h4>|| Web Development </h4>
 <ul>
-   <li> HTML/CSS </li>
-   <li> JavaScript </li>
+   <li>HTML/CSS</li>
+   <li>JavaScript</li>
+<br>
 </ul>
+</td>
+<td valign="top">
 <h4>|| Database Management </h4>
 <ul>
-   <li> IBM Db2 Cloud</li>
-</ul>
+   <li>IBM Db2 Cloud</li>
 <br>
+</ul>
+</td>
+</tr>
+</table>
 
 <h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="3%" height="3%"> Let's Connect! <img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="3%" height="3%"></h1>
 <p align="center">
