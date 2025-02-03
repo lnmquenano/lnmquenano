@@ -56,6 +56,8 @@
 <ul>
    <li>HTML/CSS</li>
    <li>JavaScript</li>
+   <li>Node.js</li>
+   <li>React.js</li>
 <br>
 </ul>
 </td>
