@@ -61,6 +61,7 @@
 <h4 align="center">|| Database Management </h4>
 <ul>
    <li>IBM Db2 Cloud</li>
+   <li>MySQL</li>
 <br>
 </ul>
 </td>
