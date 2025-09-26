@@ -72,9 +72,9 @@
 </table>
 <br>
 
-<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="3%" height="3%"> Connect! <img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="3%" height="3%"></h1>
+<h3 align="center"><img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="2%" height="2%"> Connect! <img src="https://cdn-icons-gif.flaticon.com/9872/9872481.gif" width="2%" height="2%"></h3>
 <p align="center">
-   <a href="https://www.linkedin.com/in/lnmquenano/"><img src="https://play-lh.googleusercontent.com/dWGBdDzI8mxlZqXT3qBt4eWmCaWLq-OXfZYea1hu6ODmMj1cLIeQak6Gsecn4zJoflE-" width="5% height="5%"></a>
+   <a href="https://www.linkedin.com/in/lnmquenano/"><img src="https://play-lh.googleusercontent.com/dWGBdDzI8mxlZqXT3qBt4eWmCaWLq-OXfZYea1hu6ODmMj1cLIeQak6Gsecn4zJoflE-" width="4% height="4%"></a>
 </p>
 <br>
 
