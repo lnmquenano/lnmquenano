@@ -6,12 +6,17 @@
 <h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"> Education <img src="https://cdn-icons-gif.flaticon.com/17905/17905171.gif" width="3%" height="3%"></h1>
 <table align="center">
    <tr>
-      <td><h4 align="center">Program</h4></td>
-      <td><h4 align="center">University</h4></td>
+      <td><h4 align="center">Grade Level/Program</h4></td>
+      <td><h4 align="center">University Name</h4></td>
       <td><h4 align="center">A.Y.</h4></td>
    </tr>
    <tr>
-      <td>BS Computer Science</td>
+      <td>SHS (STEM)</td>
+      <td>New Era University</td>
+      <td>2020-2023</td>
+   </tr>
+   <tr>
+      <td>College (BSCS)</td>
       <td>New Era University</td>
       <td>2023-present</td>
    </tr>
