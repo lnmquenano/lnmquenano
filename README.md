@@ -42,7 +42,7 @@
 </table>
 <br>
 
-<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"> Skillsets <img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"></h1>
+<h1 align="center"><img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"> Skillset <img src="https://cdn-icons-gif.flaticon.com/9821/9821975.gif" width="3%" height="3%"></h1>
 <table align="center">
    <tr>
       <td><h4 align="center">Programming Languages</h4></td>
